@@ -80,12 +80,4 @@ python scripts/run_pipeline.py --input data/raw/Telco-Customer-Churn.csv
 - `--test_size`: Train/test split ratio (default: `0.2`)
 - `--experiment`: MLflow experiment name (default: `Telco Churn`)
 
-## Viewing MLflow UI
 
-All experiments, parameters, metrics, and models are tracked using MLflow.
-To view the results locally, run:
-
-```bash
-mlflow ui
-```
-Then navigate to `http://127.0.0.1:5000` in your web browser.
