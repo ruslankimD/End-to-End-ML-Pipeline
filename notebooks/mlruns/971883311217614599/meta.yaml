@@ -1,8 +1,0 @@
-artifact_location: file:c:/Users/Asus/Documents/Python_project/End-to-End ML/notebooks/mlruns/971883311217614599
-creation_time: 1776240147988
-experiment_id: '971883311217614599'
-last_update_time: 1776240147988
-lifecycle_stage: active
-name: Telco Churn - XGBoost
-trace_location: null
-workspace: default

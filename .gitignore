@@ -1,0 +1,23 @@
+# environments
+.venv/
+
+# data
+data/raw/
+data/processed/
+
+# mlflow
+mlruns/
+
+# artifacts
+artifacts/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
