@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/Asus/Documents/Python_project/End-to-End ML/notebooks/mlruns/971883311217614599/models/m-4b7679d4a4244871915c9e6e3f33518d/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.7
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.11.1
+model_id: m-4b7679d4a4244871915c9e6e3f33518d
+model_size_bytes: 450588
+model_uuid: m-4b7679d4a4244871915c9e6e3f33518d
+prompts: null
+run_id: 31c32ccb630a4f08b6eb7a190e1fb91a
+utc_time_created: '2026-04-15 08:02:28.857976'

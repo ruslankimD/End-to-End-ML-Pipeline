@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Asus/Documents/Python_project/End-to-End ML/notebooks/mlruns/971883311217614599/31c32ccb630a4f08b6eb7a190e1fb91a/artifacts
+end_time: 1776240164392
+entry_point_name: ''
+experiment_id: '971883311217614599'
+lifecycle_stage: active
+run_id: 31c32ccb630a4f08b6eb7a190e1fb91a
+run_name: thundering-zebra-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776240148260
+status: 3
+tags: []
+user_id: Asus

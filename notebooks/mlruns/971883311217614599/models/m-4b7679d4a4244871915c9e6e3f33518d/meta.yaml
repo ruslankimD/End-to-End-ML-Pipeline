@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/Asus/Documents/Python_project/End-to-End ML/notebooks/mlruns/971883311217614599/models/m-4b7679d4a4244871915c9e6e3f33518d/artifacts
+creation_timestamp: 1776240148766
+experiment_id: '971883311217614599'
+last_updated_timestamp: 1776240164367
+model_id: m-4b7679d4a4244871915c9e6e3f33518d
+model_type: null
+name: model
+source_run_id: 31c32ccb630a4f08b6eb7a190e1fb91a
+status: 2
+status_message: null
