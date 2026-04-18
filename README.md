@@ -22,9 +22,9 @@ The goal of this project is to help telecom companies identify customers likely 
 
 ## Model Performance
 
-- F1-score: 0.595
-- ROC-AUC: 0.891
-- Precision: 0.439
+- F1-score: 0.590
+- ROC-AUC: 0.846
+- Precision: 0.433
 - Recall: 0.922
 
 ##  Project Structure
